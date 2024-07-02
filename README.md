@@ -2,22 +2,8 @@
 
 Developer, Director, Dad
 
-For the past 30 years I’ve been a professional developer in a variety of languages. I’ve worked in a wide variety of sectors including aviation, telecommunications, government, distributed ledger (Bitcoin, Ethereum, Monero etc), charity, financial and so on.
+For the past 30 years I’ve been a professional developer in a variety of languages. I’ve worked in a wide variety of sectors including aviation, telecommunications, government, distributed ledger, charity, financial and so on.
 
 While I’m able to design a reasonable user interface I much prefer to work on back end and low-level systems.
 
 You might want to take a look at my [`hid4java`](https://github.com/gary-rowe/hid4java) project or [review my blog](https://gary-rowe.com).
-
-<!--
-**gary-rowe/gary-rowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
