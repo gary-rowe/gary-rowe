@@ -2,7 +2,7 @@
 
 Developer, Director, Dad
 
-For the past 30 years I’ve been a professional developer in a variety of languages. I’ve worked in a wide variety of sectors including aviation, telecommunications, government, distributed ledger, charity, financial and so on.
+For the past 30 years I’ve been a professional developer in a variety of languages. I’ve worked in a wide variety of sectors including aviation, telecommunications, government, charity, financial and so on.
 
 While I’m able to design a reasonable user interface I much prefer to work on back end and low-level systems.
 
